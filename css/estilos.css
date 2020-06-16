@@ -37,3 +37,12 @@ body{
 {
     margin: 1em;
 }
+
+.footer
+{
+    background-color: gray;
+    color: white;
+    padding: 0.1em;
+    margin: 0;
+    text-align: center;
+}
